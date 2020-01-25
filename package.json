@@ -22,7 +22,7 @@
     "retext-keywords": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^2.8.0",
+    "eslint": "^4.18.2",
     "eslint-config-semistandard": "^6.0.1",
     "eslint-config-standard": "^5.1.0",
     "eslint-plugin-promise": "^1.1.0",
